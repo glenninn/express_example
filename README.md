@@ -7,7 +7,7 @@ This github project provides a very basic design of a web server:
 ## Getting Started
 1. Install Node. If you need to download, it is [available here](https://nodejs.org/en/download)
 2. Clone this repository
-3. Initialize the project environment using this command: `npm init`
+3. Install this project's environment using this command: `npm install`
 
 ## Launching the Web Server
 1. You can launch the web server using either of the following
