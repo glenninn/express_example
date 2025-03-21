@@ -30,3 +30,10 @@ $ curl -X POST http://localhost:4000/sending -H "Content-Type: application/json"
 
 ```
 
+## Serving static HTML files, etc
+Express also allows you to serve static files (html, css, js, etc). As defined in this application, there is a folder/directory in the project called `/html`.  This is where the static files are pulled.  So If you open a browser and goto: 
+
+`http://localhost:4000`
+
+The application will send the index.html file and you will see a simple page in the browser
+
